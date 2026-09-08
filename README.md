@@ -9,4 +9,4 @@ Welcome to my data analytics portfolio! I specialize in transforming raw, messy 
 * **Data Visualization:** Power BI, Excel (Advanced Formulas, Pivot Tables)
  
 Student Performance
-[Git Hub Link](
+[Git Hub Link](https://github.com/vtrivedi0610/Student-Performance.git)
