@@ -7,6 +7,8 @@ Welcome to my data analytics portfolio! I specialize in transforming raw, messy 
 * **Languages:** SQL (PostgreSQL, MySQL), Python (Pandas, NumPy, Seaborn,Matplotlib)
 
 * **Data Visualization:** Power BI, Excel (Advanced Formulas, Pivot Tables)
- 
-Student Performance
+
+## Customer Behavior Analysis
+[GitHub Link](https://github.com/vtrivedi0610/Customer-Behavior-Analysis.git)
+## Student Performance
 [Git Hub Link](https://github.com/vtrivedi0610/Student-Performance.git)
